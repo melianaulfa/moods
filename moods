@@ -1,0 +1,6 @@
+import random
+for i in range(3):
+    print(random.choice(['lively','happy', 'in a good mood', 'indifferent','weak', 'sad', 'tired', 'excited', 'content',
+                         'gloomy', 'jittery', 'annoyed', 'anxious', 'agitated' ,'proud of myself', 'angry', 'frustrated',
+                        'nervous', 'fed up', 'meh', 'bored', 'dead inside', 'unmotivated', 'motivated', 'hopeful', 'hopeless',
+                        'defeated', 'insecure', 'stupid', 'accomplished']))
